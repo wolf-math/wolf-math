@@ -1,6 +1,6 @@
 ### Hullo! 
 
-- 🔭 I’m currently working on my friend's [Coffee Shop Website]{https://github.com/wolf-math/coffeeshop}.
+- 🔭 I’m currently working on my friend's [Coffee Shop Website](https://github.com/wolf-math/coffeeshop).
 - 🌱 I’m currently learning ReactJS hooks and Redux.
 - 👯 I’m looking to collaborate on pretty much anything I can.
 - 🤔 I’m looking for help with finding a stable job.
