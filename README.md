@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on pretty much anything I can.
 - 🤔 I’m looking for help with finding a stable job.
 - 💬 Ask me about anything.
-- 📫 How to reach me: https://aaronwolf.dev/contact
+- 📫 [Reach out to me! ](https://aaronwolf.dev/contact)
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: The man who founded Atari also started Chuck E. Cheese.
