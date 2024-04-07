@@ -11,9 +11,9 @@ def fetch_blog_posts():
 
 def update_readme(articles):
     # eventually add the cover image - it's too big
-    # ![{article['title']}]({article['cover_image']}
+    # ![{article['title']}]({article['cover_image']})
 
-    articles_list = "\n".join([f"- [{article['title']}]({article['url']}))" for article in articles])
+    articles_list = "\n".join([f"- [{article['title']}]({article['url']})" for article in articles])
     updated_readme = f"""# My Latest Blog Posts\n\n{articles_list}"""
 
     with open('README.md', 'w') as file:
